@@ -1,7 +1,7 @@
 {
   "name": "solarized-dark-lightground-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This theme uses the solarized dark text colors, but uses the solarized light background.",
   "repository": "https://github.com/TARhub/solarized-dark-lightground-syntax",
   "license": "MIT",
